@@ -1,0 +1,17 @@
+{
+  "name": "my-serve",
+  "version": "1.0.0",
+  "description": "我的服务器",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ya19950818"
+  ],
+  "author": "李佳兵",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
